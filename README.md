@@ -2,7 +2,7 @@
  <a href="https://arxiv.org/abs/2003.08505">A Metric Learning Reality Check</a>
 </h2>
 <p align="center">
-
+HELLO
 
 ## Benchmark results (in progress): 
 - [4-fold cross validation, test on 2nd-half of classes](https://docs.google.com/spreadsheets/d/1brUBishNxmld-KLDAJewIc43A4EVZk3gY6yKe8OIKbY/edit?usp=sharing)
